@@ -56,6 +56,5 @@
       "name": "Weslieh's Server",
       "address": "https://beyondwind.westus3.cloudapp.azure.com/anisette"
     }
-  ],
-  "cache": "https://servers.sidestore.io/servers.json.hash"
+  ]
 }
